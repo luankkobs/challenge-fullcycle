@@ -1,4 +1,4 @@
-module github.com/luankkobs/goexpert/challenge
+module github.com/luankkobs/goexpert-challenge
 
 go 1.22.2
 
